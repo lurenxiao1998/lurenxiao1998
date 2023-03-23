@@ -1,6 +1,6 @@
 **Hi there 👋**
 
-我是一名网络安全专业的学生，现在在HIT读硕士，平时负责实验室的网页开发，对漏洞挖掘，渗透测试感兴趣。🌱 在学习中 ...
+Developer
 
 <details>
   <summary>Stats</summary>
